@@ -70,7 +70,7 @@ double post(char exp[])
                 case '*':
                     result = op1 * op2;
                     break;
-
+                
                 case '/':
                     if (op2 == 0)
                     {
